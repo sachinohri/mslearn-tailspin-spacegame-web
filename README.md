@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/ohrisachin/LearnDevOps/_apis/build/status/sachinohri.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/ohrisachin/LearnDevOps/_build/latest?definitionId=3&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
