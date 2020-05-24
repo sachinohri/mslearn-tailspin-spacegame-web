@@ -65,6 +65,7 @@ namespace TailSpin.SpaceGame.Web
                 .AsEnumerable(); // make enumeratable
 
             return Task<IEnumerable<T>>.FromResult(result);
+            
         }
 
         /// <summary>
